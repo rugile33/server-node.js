@@ -1,0 +1,18 @@
+.hide {
+  visibility: collapse;
+}
+
+body {
+  background-color: rgb(95, 227, 133);
+}
+
+.input {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+
+
+.input button {
+  margin-bottom: 30px;
+}
